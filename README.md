@@ -6,6 +6,7 @@ The only thing I had a great deal of difficulty with was getting the first image
 
 It should also be noted that there will be a distinct lack of commits in this repo. I have been in contact with Will, one of my TAs, for the past couple of days, trying to resolve this issue. There is a disruption in the Git workflow but I have not been able to resolve it after many hours of attempting to. I know this will also negatively impact my grade but again, I am out of time. 
 
-Link to a live deployment of the project: 
+Link to a live deployment of the project: https://pwkinsley87.github.io/portfolio.github.io/
 
 Screenshot of the project:
+![Screenshot (3)](https://user-images.githubusercontent.com/102868418/166173764-3fbbfae0-3243-498b-a068-2b8fc044a716.png)
